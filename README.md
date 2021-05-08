@@ -34,9 +34,6 @@ Any kind of contributions are welcome.
 
 # Developer Details:
 Name:- Ankur Bodhak
-1) Software can be modified and distributed.
-1) Software can be modified and used in private.
-
 ##License
 MIT License
 
